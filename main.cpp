@@ -2,7 +2,7 @@
 #include "WeatherAnalyzer.hpp"
 #include "WeatherPresenter.hpp"
 
-//FC BAYERN AUF DIE 1
+//FC BAYERN AUF DIE 1 :-)
 
 int main() {
     OpenMeteoWeatherService weatherService;  // Create dependency (OpenMeteoWeatherService)
