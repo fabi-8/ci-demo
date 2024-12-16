@@ -2,6 +2,8 @@
 #include "WeatherAnalyzer.hpp"
 #include "WeatherPresenter.hpp"
 
+//FC BAYERN AUF DIE 1
+
 int main() {
     OpenMeteoWeatherService weatherService;  // Create dependency (OpenMeteoWeatherService)
     WeatherAnalyzer weather(weatherService); // Inject dependency into WeatherAnalyzer
